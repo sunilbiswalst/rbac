@@ -1,18 +1,4 @@
 {
-	"un":"Shyamagatla, Tejkiran",
-	"dm":"PUF1",
-	"l":"LANE2",
-	"ml":[
-		"PUF1",
-		"LRD"
-	],
-	"ur":[
-		"Admin"
-	],
-	"fl":[
-		"ShipPlanRequest",
-		"SendStatus",
-		"PrintDocuments",
-		"BuildASN"
-	]
+	"userName":"Shyamagatla, Tejkiran",
+	"defaultMcid":"PUF1"
 }
