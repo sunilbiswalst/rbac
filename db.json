@@ -1,15 +1,15 @@
 {
-	"userName":"Shyamagatla, Tejkiran",
-	"defaultMcid":"PUF1",
-	"defaultLane":"LANE2",
-	"mcidList":[
+	"un":"Shyamagatla, Tejkiran",
+	"dm":"PUF1",
+	"l":"LANE2",
+	"ml":[
 		"PUF1",
 		"LRD"
 	],
-	"userRoles":[
+	"ur":[
 		"Admin"
 	],
-	"featureList":[
+	"fl":[
 		"ShipPlanRequest",
 		"SendStatus",
 		"PrintDocuments",
